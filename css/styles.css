@@ -128,3 +128,15 @@ h3 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* */
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
