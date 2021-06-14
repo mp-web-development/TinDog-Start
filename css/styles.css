@@ -45,6 +45,8 @@ h1 {
   transform: rotate(25deg);
 }
 
+/* Features section */
+
 #features {
   padding: 7% 15%;
 }
@@ -77,7 +79,6 @@ h1 {
 /* Testimonials section */
 
 #testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color: #ffff;
@@ -90,11 +91,17 @@ h1 {
   line-height: 1.5;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
 }
+
+/* Press section */
 
 #press {
   background-color: #ef8172;
