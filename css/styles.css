@@ -129,6 +129,33 @@ h3 {
   padding: 3% 2%;
 }
 
+/* CTA section */
+
+#cta {
+  color: #fff;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/* Footer */
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
 /* */
 @media (max-width: 1000px) {
   #title {
